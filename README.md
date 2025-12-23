@@ -20,3 +20,7 @@ A **console-based Pet Adoption Center** built in **C++** using Object-Oriented P
 ```bash
 g++ main.cpp -o pet_adoption
 ./pet_adoption    # Windows: pet_adoption.exe
+
+👩‍💻 Made by Navya
+GitHub: @navya-0510
+⭐ Star if you like it! 🐶🐱🐦
